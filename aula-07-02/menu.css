@@ -1,0 +1,47 @@
+#menu{
+    width: 100%;
+    display: block;
+    float: left;
+}
+#menu ul li{
+    list-style-type: none;
+    float: left;
+}
+#menu ul li a{
+    padding: 10px;
+    font-style: inherit;
+    color: black;
+    text-decoration: none;
+    background-color: red;
+}
+#menu ul li a:hover{
+    background-color: orangered;
+}
+.bloco{
+    width: 50%;
+    height: auto;
+    float: left;
+    display: block;
+    background-color: blue;
+    margin-left: 2%;
+}
+.bloco img{
+    width: 45%;
+}
+.bloco p{
+    width: 40%;
+    margin-left: 5%;
+}
+.esq{
+    float: left;
+}
+.dir{
+    float: right;
+}
+.corPreto{
+    background-color: black;
+}
+.quebra{
+    clear: both;
+    margin-bottom: 30px;
+}

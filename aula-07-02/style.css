@@ -1,0 +1,43 @@
+#caixa1{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+#caixa2{
+    background-color: green;
+    width: 25%;
+    height: 300px;
+    display: block;
+    float: left;
+    border: 6px solid purple;
+}
+#caixa3{
+    background-color: black;
+    width: 65%;
+    height: 300px;
+    display: block;
+    float: left;
+    border: 6px solid yellow;
+}
+#bola{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+}
+#triangulo{
+
+}
+p{
+    color: orange;
+    text-shadow: 5px 5px 7px orange;
+    text-align: center;
+    font-family: italic;
+    width: 200px;
+    height: 300px;
+    display: block;
+    padding: 45px;
+}

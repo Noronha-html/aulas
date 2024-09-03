@@ -1,0 +1,24 @@
+body{
+    background: rgb(0,16,36);
+    background: linear-gradient(90deg, rgba(0,16,36,1) 0%, rgba(9,66,121,1) 35%, rgba(14,255,0,1) 100%);;
+}
+h1{
+    color: red;
+     text-shadow: 5px 5px 7px red;
+     font-family: cursive;
+}
+h2{
+    color: red;
+    text-shadow: 4px 4px 5px red;
+    font-family: cursive; 
+}
+ol{
+    color:aqua;
+    font-family: cursive;
+    text-shadow: 3px 3px 4px;
+}
+p{
+    color:blueviolet;
+    text-shadow: 3px 3px 4px;
+    font-family: cursive;
+}
